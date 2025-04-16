@@ -1,8 +1,11 @@
 # Hi there, I'm Charan Naik 👋
 
-🎓 Bachelor’s Degree in Information Science and Engineering from Visvesvaraya Technological University  
-📊 Business Analyst @ Aimerz.ai  
+🎓 Bachelor’s Degree in Information Science and Engineering from Visvesvaraya Technological University
+
+👔 Business Analyst @ Aimerz.ai
+
 💡 Passionate about Data Analytics, Automation, and Problem Solving  
+
 📍 Bengaluru, India
 
 I'm a Data Analyst with experience in SaaS and EdTech startups, passionate about automation, business insights, and problem solving. I’ve built marketing, sales, and product dashboards using SQL, Power BI, Looker Studio, and Python, helping teams make better, faster decisions.
