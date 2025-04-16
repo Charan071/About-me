@@ -1,6 +1,6 @@
 # Hi there, I'm Charan Naik 👋
 
-🎓 Graduate in Information Science Engineering @ Visvesvaraya Technological University  
+🎓 Bachelor’s Degree in Information Science and Engineering from Visvesvaraya Technological University  
 📊 Business Analyst @ Aimerz.ai  
 💡 Passionate about Data Analytics, Automation, and Problem Solving  
 📍 Bengaluru, India
