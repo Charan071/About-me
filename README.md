@@ -41,6 +41,7 @@ Currently pursuing the IBM Data Science Certification to strengthen my Python, s
 ### 🔥 Projects You’ll See Soon
 
 💳 **UPI Spend Analysis**  
+
 Tools: Excel, Power BI
 
 Focus: Spending trends by category, date, and transaction frequency.
