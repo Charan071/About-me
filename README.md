@@ -75,7 +75,7 @@ Focus: Location-wise ride demand, time-based trends, operational insights.
 
 ### 🌐 Let's Connect!
 
-💼 [LinkedIn](https://www.linkedin.com/in/charan-naik-403892294) • ✉️ [Email](charan07naik@gmail.com) • [Portfolio](https://www.datascienceportfol.io/charannaik)
+💼 [LinkedIn](https://www.linkedin.com/in/charan-naik-analyst) • ✉️ [Email](charan07naik@gmail.com) • [Portfolio](https://www.datascienceportfol.io/charannaik)
 
 ---
 
