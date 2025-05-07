@@ -54,7 +54,7 @@ Focus: Trends by genre, country, and year.
 
 🛒 **Walmart Retail Sales Analysis**
 
-Tools: SQL, Python, Power BI
+Tools: SQL, Python
 
 Focus: Sales by store & department, holiday impact, economic factors.
 
