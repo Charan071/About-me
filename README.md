@@ -38,7 +38,7 @@ Currently pursuing the IBM Data Science Certification to strengthen my Python, s
 
 ---
 
-### 🔥 Projects You’ll See Soon
+### 🔥 Projects
 
 💳 **UPI Spend Analysis**  
 
