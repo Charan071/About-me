@@ -74,8 +74,10 @@ Problem Solving · System Design Thinking · Attention to Detail · Team Collabo
 - Automated news curation via Supabase + n8n workflows  
 - LLM-powered summarization + tagging  
 - Daily personalized email digests using automated pipelines  
-**Repo:** https://github.com/Charan071/ai-bulletin-daily  
-**n8n Workflows:** https://github.com/Charan071/my-n8n-workflows
+**Repo:** https://github.com/Charan071/ai-bulletin-daily
+
+  ### 🔹 **n8n Workflows** 
+**Repo:** https://github.com/Charan071/my-n8n-workflows
 
 ---
 
