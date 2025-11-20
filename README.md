@@ -76,7 +76,9 @@ Problem Solving · System Design Thinking · Attention to Detail · Team Collabo
 - Daily personalized email digests using automated pipelines  
 **Repo:** https://github.com/Charan071/ai-bulletin-daily
 
-  ### 🔹 **n8n Workflows** 
+---
+
+### 🔹 **n8n Workflows** 
 **Repo:** https://github.com/Charan071/my-n8n-workflows
 
 ---
